@@ -1,0 +1,6 @@
+@import './modules/geral.css';
+@import './modules/animationScroll.css';
+
+.ativo {
+    color: red;
+}

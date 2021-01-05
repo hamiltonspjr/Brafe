@@ -1,0 +1,9 @@
+[data-animation="scroll"] {
+    opacity: 0;
+    transform: translate3d(-30px,0,0);
+    transition: .3s;
+}
+[data-animation="scroll"].anima-scroll-section {
+    opacity: 1;
+    transform: translate3d(0,0,0);
+}
